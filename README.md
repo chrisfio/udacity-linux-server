@@ -6,8 +6,9 @@ Created to demonstrate my ability to build a full stack application, this is a F
 
 ## Access
 
-i.  52.43.24.242 SSH Port: 22
-ii. https://bartenderapp.chrisfiorino.com/
+52.43.24.242 SSH Port: 22
+
+https://bartenderapp.chrisfiorino.com/
 
 ## Software Installed
 
@@ -18,3 +19,9 @@ I installed:
   2. Flask
   3. Let's Encrypt
   4. PostgreSQL 
+
+I used resources found on:
+  1. StackOverflow
+  2. AWS Documentation
+  3. Udacity Instructions and Lessons
+  4. Digital Ocean Blogs
