@@ -31,7 +31,7 @@ For this project:
   11. Setup the server so that it displays the catalog when visiting my site.
   
 I used resources found on:
-  1. StackOverflow
-  2. AWS Documentation
-  3. Udacity Instructions and Lessons
-  4. Digital Ocean Blogs
+  1. [StackOverflow](https://stackoverflow.com/)
+  2. [AWS Documentation](https://aws.amazon.com/documentation/lightsail/)
+  3. [Udacity Instructions and Lessons](https://www.udacity.com/)
+  4. [Digital Ocean Blogs](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
